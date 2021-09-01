@@ -80,7 +80,7 @@ app.get('/purchase', (req, res) => {
             date: '24/03/2000',
             percentageCashback: "5%",
             valueCashback: "R$ 10,00",
-            status: 'Aprovado'
+            status: 'Em validação'
         },
         {
             id: 3,
@@ -88,7 +88,7 @@ app.get('/purchase', (req, res) => {
             date: '24/03/2000',
             percentageCashback: "5%",
             valueCashback: "R$ 10,00",
-            status: 'Aprovado'
+            status: 'Reprovado'
         },
         {
             id: 4,
@@ -96,7 +96,7 @@ app.get('/purchase', (req, res) => {
             date: '24/03/2000',
             percentageCashback: "5%",
             valueCashback: "R$ 10,00",
-            status: 'Aprovado'
+            status: 'Em validação'
         },
         {
             id: 5,
@@ -104,7 +104,7 @@ app.get('/purchase', (req, res) => {
             date: '24/03/2000',
             percentageCashback: "5%",
             valueCashback: "R$ 10,00",
-            status: 'Aprovado'
+            status: 'Reprovado'
         },
         {
             id: 6,
@@ -128,7 +128,7 @@ app.get('/purchase', (req, res) => {
             date: '24/03/2000',
             percentageCashback: "5%",
             valueCashback: "R$ 10,00",
-            status: 'Aprovado'
+            status: 'Reprovado'
         },
         {
             id: 9,
@@ -136,7 +136,7 @@ app.get('/purchase', (req, res) => {
             date: '24/03/2000',
             percentageCashback: "5%",
             valueCashback: "R$ 10,00",
-            status: 'Aprovado'
+            status: 'Em validação'
         },
         {
             id: 10,
@@ -160,7 +160,7 @@ app.get('/purchase', (req, res) => {
             date: '24/03/2000',
             percentageCashback: "5%",
             valueCashback: "R$ 10,00",
-            status: 'Aprovado'
+            status: 'Em validação'
         },
         {
             id: 13,
@@ -176,7 +176,7 @@ app.get('/purchase', (req, res) => {
             date: '24/03/2000',
             percentageCashback: "5%",
             valueCashback: "R$ 10,00",
-            status: 'Aprovado'
+            status: 'Reprovado'
         },
         {
             id: 15,
@@ -192,7 +192,7 @@ app.get('/purchase', (req, res) => {
             date: '24/03/2000',
             percentageCashback: "5%",
             valueCashback: "R$ 10,00",
-            status: 'Aprovado'
+            status: 'Reprovado'
         },
         {
             id: 17,
